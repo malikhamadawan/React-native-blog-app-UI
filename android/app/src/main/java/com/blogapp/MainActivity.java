@@ -1,4 +1,4 @@
-package com.blogapp;
+package com.blogsapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
