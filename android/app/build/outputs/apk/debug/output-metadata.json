@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.blogsapp",
+  "applicationId": "com.blogsapps",
   "variantName": "debug",
   "elements": [
     {

@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.blogsapp",
+  "applicationId": "com.blogsapps",
   "variantName": "debug",
   "elements": []
 }

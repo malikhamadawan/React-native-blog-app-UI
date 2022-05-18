@@ -21,6 +21,8 @@ import io.invertase.firebase.firestore.ReactNativeFirebaseFirestorePackage;
 import io.invertase.firebase.storage.ReactNativeFirebaseStoragePackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
+// react-native-image-crop-picker
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
 // react-native-pager-view
 import com.reactnativepagerview.PagerViewPackage;
 // react-native-safe-area-context
@@ -79,6 +81,7 @@ public class PackageList {
       new ReactNativeFirebaseFirestorePackage(),
       new ReactNativeFirebaseStoragePackage(),
       new RNGestureHandlerPackage(),
+      new PickerPackage(),
       new PagerViewPackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage(),
